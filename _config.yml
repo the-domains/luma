@@ -1,0 +1,28 @@
+name: LUMA Institute
+favicon: null
+layout_spectrum: 0.5753672283608466
+typography_spectrum: 0.7728712977841496
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.5885498723946512
+  lightness: 0.7303061655256897
+  saturation: 0.9525053182151169
+  rhythmicContrast: 0.22497448977082968
+purpose: []
